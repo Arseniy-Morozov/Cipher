@@ -18,11 +18,3 @@ int main()
 
 }
 
-/*
-Пароль
-Passworid
-
-Ключ
-lkjsfvsad
-3c0b1b03151e070801
-*/
